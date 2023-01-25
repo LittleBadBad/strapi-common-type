@@ -1,7 +1,7 @@
 {
   "name": "strapi-common-type",
   "description": "provide some common types and request functions support for strapi based frontend apps using typescript",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "MIT",
   "files": [
     "index.ts",

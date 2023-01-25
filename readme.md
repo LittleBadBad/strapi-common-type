@@ -29,7 +29,7 @@ err... there are too many types exported, here only introduce some key types
 
 - Query
 
-query object followed by each strapi url, use `qs` library to stringify it
+query object followed by each strapi url, use `qs` library to stringify it, schema of query object follows the [strapi api parameters](https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest/api-parameters.html)
 
 includes: locale, filters, publicationState, pagination, sort, fields, populate
 
