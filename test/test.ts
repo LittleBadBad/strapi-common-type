@@ -1,5 +1,5 @@
 import {Post} from "./Post";
-import {Filters, InputData, MergeAttrs, PickOther, Sort} from "../index";
+import {Filters, InputData, MergeAttrs, PickOther, Sort} from "../src";
 import {PostVote} from "./PostVote";
 
 const a: MergeAttrs<Post> = {

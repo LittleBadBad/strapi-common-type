@@ -1,3 +1,5 @@
+deprecated, rename module name to `strapi-common-api`
+
 # strapi-common-type
 
 provide some common types and request functions support for strapi based frontend apps using typescript
